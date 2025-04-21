@@ -1,4 +1,4 @@
-### Projeto Expo + Supabase
+### Projeto Expo + Supabase 2
 
 #### Telas criadas
 
